@@ -1,3 +1,3 @@
 # hello-world
 first respitory
-gitinit
+I am jake and I go to high school
